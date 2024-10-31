@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 48e03c0d3cc967148a77c8a2cae3c683
+  - enabled: 1
+    path: Assets/Scenes/SettingsMenu.unity
+    guid: c99aab7ef780b9b4b9da409afcf2f685
+  - enabled: 1
+    path: Assets/Scenes/StageMenu.unity
+    guid: d9a3ab08eeb10ac429a79cfc5ab73e32
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: edef9e269456091478da51da9056a06e
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 5ba69098381093c47ae60e838c7a0483
+  - enabled: 1
+    path: Assets/Scenes/Level2Check.unity
+    guid: 838b1a745aaaf004885f183a50e4bf2c
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: a6b944437652f164992c7abbc5b07aef
+  - enabled: 1
+    path: Assets/Scenes/lastCave.unity
+    guid: b4fea1f658ba1a946992d9352de2b4f5
+  - enabled: 1
+    path: Assets/Scenes/Thanks.unity
+    guid: 4b84b84db14599c4f87b3d7f7c9b07e5
+  m_configObjects: {}
